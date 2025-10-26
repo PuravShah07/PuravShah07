@@ -36,3 +36,7 @@
 ### 🔗 Socials:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purav-shah-40a776331/)  
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=PuravShah07&label=Profile%20views&color=0047AB&style=plastic?" alt="PuravShah07" height=25px, width=160px/> 
+
+</p>
