@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Header Banner GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="900">
-
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Purav+Shah;Pre-Final+Year+%40+Nirma+University;CP+%2B+Dev+%3D+My+kind+of+stack+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Purav+Shah;Pre-Final+Year+%40+Nirma+University;I+solve+bugs+by+day%2C+problems+by+night+%F0%9F%A7%A9" alt="Typing SVG" /></a>
 
 <br>
 
@@ -59,7 +56,7 @@
     </td>
     <td align="center" width="140">
       <a href="https://atcoder.jp/users/Purav_Shah07" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/atcoder.svg" width="50" height="50" alt="AtCoder" />
+        <img src="https://img.atcoder.jp/assets/top/img/logo_bk.svg" width="50" height="50" alt="AtCoder" />
         <br><b>AtCoder</b>
       </a>
     </td>
@@ -98,9 +95,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PuravShah07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&cache_seconds=7200" height="170" />
+<img src="https://github-stats-extended.vercel.app/api?username=PuravShah07&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" height="170" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuravShah07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&cache_seconds=7200" height="170" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PuravShah07&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117" height="170" />
 
 <br><br>
 
