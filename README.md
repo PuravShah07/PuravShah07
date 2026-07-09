@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Purav+Shah;Pre-Final+Year+%40+Nirma+University;I+solve+bugs+by+day%2C+problems+by+night+%F0%9F%A7%A9" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Purav+Shah;Pre-Final+Year+Student+%40+Nirma+University;I+solve+bugs+by+day%2C+problems+by+night+%E2%9C%A8" alt="Typing SVG" /></a>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
 
-&nbsp;&nbsp;&nbsp;🎓 Pre-Final Year, **B.Tech CSE** at **Nirma University**
+&nbsp;&nbsp;&nbsp;🎓 Pre-Final Year Student, **B.Tech CSE** at **Nirma University**
 
 &nbsp;&nbsp;&nbsp;⚡ Competitive programmer who loves chasing that **AC verdict**
 
